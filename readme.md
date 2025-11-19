@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Project Timeline: Aug 1, 2025 - Jan 31, 2026
     dateFormat  YYYY-MM-DD
